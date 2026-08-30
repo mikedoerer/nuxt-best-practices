@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-best-practices",
+  "description": "Best practices for Nuxt 3/4: data fetching, rendering modes, server routes, state, SEO, and config/module setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mike Doerer"
+  },
+  "homepage": "https://github.com/mikedoerer/nuxt-best-practices",
+  "repository": "https://github.com/mikedoerer/nuxt-best-practices",
+  "license": "MIT"
+}

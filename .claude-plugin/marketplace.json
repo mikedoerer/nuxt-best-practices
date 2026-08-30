@@ -1,0 +1,15 @@
+{
+  "name": "mikedoerer",
+  "description": "Mike Doerer's Claude Code plugins.",
+  "owner": {
+    "name": "Mike Doerer",
+    "url": "https://github.com/mikedoerer"
+  },
+  "plugins": [
+    {
+      "name": "nuxt-best-practices",
+      "source": "./",
+      "description": "Best practices for Nuxt 3/4: data fetching, rendering modes, server routes, state, SEO, and config/module setup."
+    }
+  ]
+}
